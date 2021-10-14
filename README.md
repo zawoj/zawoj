@@ -1,7 +1,7 @@
 ### Hi, I'm Zawoj and welcome to my Repository 👋
 ---
-- 🔭 I’m currently studing on Politechnika Wrocławska majoring in Inforamtyka Algorytmiczna
-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use Bedrock roots but now Next.js + Strpi CMS
+- 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Inforamtyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
+- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/)
 - 🌱 I’m currently learning :
   - ✌ MERN stack. It's so powerfull.
   - ✏ UX/UI 

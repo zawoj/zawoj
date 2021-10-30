@@ -6,7 +6,7 @@
   - ✌  MERN stack. It's so powerfull.
   - ✏  UX/UI 
   - 😍 Creating App, Websites and E-commerce with Next.js and Strapi CMS
-- 🤔 I’m looking for help with deploing MERN app on custom hostig server.
+- 🤔 I’m looking for help with deploing MERN app on custom hosting server.
 - 💬 Ask me about anything
 - 📫 How to reach me: zawojweb@gmail.com
 

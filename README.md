@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning :
   - ✌  MERN stack. It's so powerfull.
   - ✏  UX/UI 
-  - 😍 Creating App, Websites and E-commerce with Next.js and Strapi CMS
-- 🤔 I’m looking for help with deploy MERN app on custom hosting server.
+  - 😍 Creating App, Websites and E-commerce with Next.js and Strapi CMS (Bcs allways is something new to learn).
 - 💬 Ask me about anything
 - 📫 How to reach me: zawojweb@gmail.com
 

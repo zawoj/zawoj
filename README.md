@@ -13,7 +13,6 @@
 ---
 
 🛠 Stuff in progess 🛠
-- My website. Yes I don't have webiste yet.
-- Blog with tutorials for my friends in the major
+- My website. Yes I don't have webiste yet. 
 - E-school app for schools ( I can't say more )
 - NFT shop

@@ -1,5 +1,5 @@
 ### Hi, I'm Zawoj and welcome to my Repository 👋 
-[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)
+
 ---
 - 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Inforamtyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
 - 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/)
@@ -24,7 +24,7 @@
 [<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />](https://www.php.net)
 <br><br>
 
-#### Some Stats:
+#### Some stats about me:
 
 
 <!--START_SECTION:waka-->

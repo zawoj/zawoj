@@ -24,9 +24,8 @@
 [<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />](https://www.php.net)
 <br><br>
 
-#### Summary
+#### Some Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawojweb&count_private=true&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2032%20mins-blue)

@@ -26,7 +26,7 @@
 
 #### Some stats about me:
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%202%20mins-blue)
 
@@ -82,3 +82,4 @@ RenameTools              1 min               ░░░░░░░░░░░�
 
  Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
+

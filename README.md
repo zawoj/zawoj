@@ -28,29 +28,27 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%202%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 23 Contributions in the Year 2022
+> 🏆 26 Contributions in the Year 2022
  > 
-> 📦 238.8 kB Used in GitHub's Storage 
+> 📦 238.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
-🌆 Daytime    218 commits    █████████░░░░░░░░░░░░░░░░   36.21% 
-🌃 Evening    298 commits    ████████████░░░░░░░░░░░░░   49.5% 
-🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
+🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+🌆 Daytime    218 commits    █████████░░░░░░░░░░░░░░░░   36.09% 
+🌃 Evening    300 commits    ████████████░░░░░░░░░░░░░   49.67% 
+🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
 ```
 
@@ -80,6 +78,6 @@ RenameTools              1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 

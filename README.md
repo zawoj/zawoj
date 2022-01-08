@@ -23,7 +23,7 @@
 [<img align="left" alt="Java" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://dev.java)
 [<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />](https://www.php.net)
 <br><br>
-## Some stats:
+## Some stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zawojweb&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

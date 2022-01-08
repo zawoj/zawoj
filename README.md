@@ -70,5 +70,3 @@ TSstatic                 1 hr 46 mins        █░░░░░░░░░░�
 
  Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
-
-<img src="https://github.com/zawojweb/zawojweb/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>

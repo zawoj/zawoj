@@ -10,7 +10,7 @@
 - ⚡I am interested in geopolitics and the stock market
 
 
-## Technologies and Tools I feel confident in
+## Technologies and Tools I feel confident with
 <p>
 
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> 

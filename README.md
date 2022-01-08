@@ -45,10 +45,19 @@
 </p>
 <br><br>
 
-## Some stats
+<p align="center">
+    <a href="https://git.io/streak-stats">
+      <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=zawojweb&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Material Bread logo">
+    </a>
+</p>
+<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zawojweb&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## About me and what I do
 
+<details>
+<summary><b>📊&nbsp;&nbsp;Some&nbsp;stats</b></summary>
+ <br>
+  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
@@ -93,3 +102,4 @@ TSstatic                 1 hr 46 mins        █░░░░░░░░░░�
 
  Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
+ </details> 

@@ -61,13 +61,11 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2022%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 42 Contributions in the Year 2022
+> 🏆 52 Contributions in the Year 2022
  > 
-> 📦 225.1 kB Used in GitHub's Storage 
+> 📦 225.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

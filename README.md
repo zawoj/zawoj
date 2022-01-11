@@ -61,11 +61,9 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%206%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 93 Contributions in the Year 2022
+> 🏆 94 Contributions in the Year 2022
  > 
 > 📦 226.6 kB Used in GitHub's Storage 
  > 
@@ -100,6 +98,6 @@ INFA-ALGO-SEM3           13 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
  </details> 

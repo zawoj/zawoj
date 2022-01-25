@@ -46,7 +46,11 @@
 </p>
 <br><br>
 
-
+<p align="center">
+    <a href="https://git.io/streak-stats">
+      <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=zawojweb&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Material Bread logo">
+    </a>
+</p>
 <br>
 
 ## About me and what I do

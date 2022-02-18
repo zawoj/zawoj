@@ -1,6 +1,6 @@
 # Hi, I'm Zawoj <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> nice to see you <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## What i do
+## What I do
 - 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Informatyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
 - 💪 I'm currentyl working as Fullstack JavaScript Developer in [Nokia](https://github.com/nokia).
 - 🌱 I’m currently learning PERN stack and TypeScript

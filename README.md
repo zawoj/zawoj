@@ -62,9 +62,11 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2050%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 203 Contributions in the Year 2022
+> 🏆 207 Contributions in the Year 2022
  > 
 > 📦 282.6 kB Used in GitHub's Storage 
  > 
@@ -72,7 +74,7 @@
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -97,6 +99,6 @@ Netzwind-Dashboard       5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/02/2022 23:14:43 UTC
+ Last Updated on 21/02/2022 23:14:57 UTC
 <!--END_SECTION:waka-->
  </details> 

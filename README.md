@@ -2,7 +2,7 @@
 
 ## What I do
 - 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Informatyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
-- 💪 I'm currentyl working as Fullstack JavaScript Developer in [Nokia](https://github.com/nokia).
+- 💪 I'm currentyl working as Fullstack JavaScript Developer in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/).
 - 🌱 I’m currently learning PERN stack and TypeScript
 - 💬 Ask me about anything
 - 📫 How to reach me: zawojweb@gmail.com

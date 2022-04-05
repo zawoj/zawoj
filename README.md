@@ -101,4 +101,11 @@ Unknown Project          1 hr 1 min          ░░░░░░░░░░░�
 
  Last Updated on 03/04/2022 23:15:30 UTC
 <!--END_SECTION:waka-->
- </details> 
+</details> 
+<details>
+<summary><b>⌛&nbsp;&nbsp;All&nbsp;times&nbsp;languages</b></summary>
+  <br><br>
+   <p align="center">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ZawojWeb/25095df9-0ebf-4239-8e01-cd568a60de5a.png" /></a>
+  </p>
+</details> 

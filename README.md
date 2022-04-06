@@ -5,7 +5,7 @@
 - 💪 I'm currentyl working as Fullstack JavaScript Developer in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/).
 - 🌱 I’m currently learning PERN stack and TypeScript
 - 💬 Ask me about anything
-- 📫 How to reach me: zawojweb@gmail.com
+- 📫 How to reach me: zawojskikacperkontakt@gmail.com
 - 🛠 I'm currently work on my first StartUp
 - ⚡I am interested in geopolitics and the stock market
 <!-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/) -->

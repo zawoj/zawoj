@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning PERN stack and TypeScript
 - 💬 Ask me about anything
 - 📫 How to reach me: zawojskikacperkontakt@gmail.com
-- 🛠 I'm currently work on my first StartUp
+- 🛠 I'm currently work on my own implementation of OAuth 2.0
 - ⚡I am interested in geopolitics and the stock market
 <!-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/) -->
 

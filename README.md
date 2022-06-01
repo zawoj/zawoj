@@ -1,4 +1,4 @@
-# Hi, I'm Zawoj <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> nice to see you <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi, I'm Zawoj <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> nice to see you <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
 ## What I do
 - 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Informatyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)

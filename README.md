@@ -2,8 +2,9 @@
 
 ## What I do
 - 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Informatyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
-- 💪 I'm currentyl working as Fullstack JavaScript Developer in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/).
-- 🌱 I’m currently learning PERN stack and TypeScript
+- 💪 I'm currentyl working as Fullstack TypeScript Developer 
+<!-- in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/). -->
+- 🌱 I’m currently learning Nest.js
 - 💬 Ask me about anything
 - 📫 How to reach me: zawojskikacperkontakt@gmail.com
 - 🛠 I'm currently work on my own implementation of OAuth 2.0

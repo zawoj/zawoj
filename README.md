@@ -51,7 +51,7 @@
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-      <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=zawojweb&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Material Bread logo">
+      <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=zawoj&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Material Bread logo">
     </a>
 </p>
 <br>
@@ -65,7 +65,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)
 
 **🐱 My GitHub Data** 
 

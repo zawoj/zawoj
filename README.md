@@ -66,7 +66,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,7 +98,7 @@ PortfolioPage            57 mins             ███████████�
 ```
 
 
- Last Updated on 17/08/2022 23:17:03 UTC
+ Last Updated on 18/08/2022 23:16:58 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

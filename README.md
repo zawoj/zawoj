@@ -66,7 +66,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,20 +86,20 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               8 hrs 57 mins       ████████████████████████░   97.55% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+TypeScript               11 hrs 8 mins       ████████████████████████░   98.02% 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  11 hrs 21 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hotspot-dashboard        8 hrs 23 mins       ██████████████████████░░░   91.42% 
-ilovecoffe               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.58%
+hotspot-dashboard        9 hrs 29 mins       ████████████████████░░░░░   83.46% 
+ilovecoffe               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54%
 
 ```
 
 
- Last Updated on 25/08/2022 23:28:33 UTC
+ Last Updated on 26/08/2022 23:16:11 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

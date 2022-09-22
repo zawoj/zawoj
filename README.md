@@ -6,7 +6,7 @@
 <!-- in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/). -->
 - 🌱 I’m currently learning Nest.js
 - 💬 Ask me about anything
-- 📫 How to reach me: zawojskikacperkontakt@gmail.com
+- 📫 How to reach me: zawojit@gmail.com
 - 🛠 I'm currently work on my own implementation of OAuth 2.0
 - ⚡I am interested in geopolitics and the stock market
 <!-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/) -->

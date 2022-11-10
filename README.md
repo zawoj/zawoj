@@ -66,13 +66,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C279%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2015%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,439 Contributions in the Year 2022
+> 🏆 1,449 Contributions in the Year 2022
  > 
-> 📦 484.1 kB Used in GitHub's Storage 
+> 📦 484.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,8 +80,32 @@
  > 
 > 🔑 30 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 09/11/2022 23:18:52 UTC
+```text
+⌚︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+TypeScript               16 hrs 32 mins      ████████████████████░░░░░   80.07% 
+Julia                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+JSON                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+
+🔥 Editors: 
+VS Code                  20 hrs 39 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+hotspot-dashboard        6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.28% 
+zespolowe-frontend       3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
+zawojit-system           3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+Infa-algo-sem5           2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+PortfolioPage            2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.62%
+
+```
+
+
+ Last Updated on 10/11/2022 23:17:46 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

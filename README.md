@@ -112,6 +112,6 @@ Infa-algo-sem5           1 hr 44 mins        ██░░░░░░░░░�
 <summary><b>⌛&nbsp;&nbsp;All&nbsp;times&nbsp;languages</b></summary>
   <br><br>
    <p align="center">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ZawojWeb/25095df9-0ebf-4239-8e01-cd568a60de5a.png" /></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Zawoj/25095df9-0ebf-4239-8e01-cd568a60de5a.png" /></a>
   </p>
 </details> 

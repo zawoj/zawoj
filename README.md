@@ -67,13 +67,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,692 Contributions in the Year 2022
+> 🏆 1,708 Contributions in the Year 2022
  > 
-> 📦 470.1 kB Used in GitHub's Storage 
+> 📦 470.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,24 +87,23 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               7 hrs 1 min         ████████████████████████░   99.0% 
-Julia                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+TypeScript               7 hrs 1 min         ████████████████████████░   96.52% 
+Julia                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        █████████████████████████   100.0%
+VS Code                  7 hrs 16 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hotspot-dashboard        7 hrs 2 mins        ████████████████████████░   99.11% 
-Infa-algo-sem5           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-zespolowe-frontend       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+hotspot-dashboard        7 hrs 2 mins        ████████████████████████░   96.68% 
+Infa-algo-sem5           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
 
 ```
 
 
- Last Updated on 20/12/2022 23:13:56 UTC
+ Last Updated on 21/12/2022 23:14:12 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

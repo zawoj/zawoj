@@ -67,17 +67,17 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,708 Contributions in the Year 2022
+> 🏆 1,717 Contributions in the Year 2022
  > 
-> 📦 470.8 kB Used in GitHub's Storage 
+> 📦 470.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 26 Private Repositories  
  > 
@@ -87,23 +87,24 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               7 hrs 1 min         ████████████████████████░   96.52% 
-Julia                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               7 hrs 29 mins       ████████████████████░░░░░   81.25% 
+Markdown                 1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Julia                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-VS Code                  7 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 13 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hotspot-dashboard        7 hrs 2 mins        ████████████████████████░   96.68% 
-Infa-algo-sem5           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
+hotspot-dashboard        9 hrs               ████████████████████████░   97.63% 
+Infa-algo-sem5           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+Best-README-Template-mast2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 ```
 
 
- Last Updated on 21/12/2022 23:14:12 UTC
+ Last Updated on 22/12/2022 23:15:04 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

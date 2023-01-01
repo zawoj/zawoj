@@ -3,16 +3,19 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zawoj)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## What I do
+
 - 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Informatyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
 - 💪 I'm currentyl working as Fullstack TypeScript Developer and mining my own business
 - 🌱 I’m currently learning Nest.js
 - 💬 Ask me about anything
 - 🛠 I'm currently work on my own CMS ZawojIT System
 - ⚡I am interested in geopolitics and the stock market
-<!-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/) -->
-<!-- in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/). -->
-<!-- - 📫 How to reach me: zawojit@gmail.com -->
+  <!-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/) -->
+  <!-- in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/). -->
+  <!-- - 📫 How to reach me: zawojit@gmail.com -->
+
 ## Everyday Technologies
+
 <p>
 <!--https://github.com/Envoy-VC/awesome-badges -->
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,6 +35,7 @@
 </p>
 
 ## Little experience
+
  <p>
    <img alt="ReactiveX" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" />
    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -41,14 +45,15 @@
  </p>
 
 ## I was dealing with
+
  <p>
    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p> 
   
 ## Tools and Programs
@@ -79,43 +84,43 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%2023%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 452.2 kB Used in GitHub's Storage 
- > 
+> 📦 452.2 kB Used in GitHub's Storage
+>
 > 🏆 738 Contributions in the Year 2023
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 28 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
+>
+> 📜 13 Public Repositories
+>
+> 🔑 28 Private Repositories
+>
+> 📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Warsaw
 
-💬 Programming Languages: 
-TypeScript               13 hrs 23 mins      ██████████████████░░░░░░░   71.46 % 
-Julia                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+💬 Programming Languages:
+TypeScript               13 hrs 23 mins      ██████████████████░░░░░░░   71.46 %
+Julia                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 
-🔥 Editors: 
-VS Code                  18 hrs 44 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  18 hrs 44 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-hotspot-dashboard        4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-ms-shop                  4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-lista2                   3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-zit-frontend             2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Frontend-RN              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+🐱‍💻 Projects:
+hotspot-dashboard        4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 %
+ms-shop                  4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 %
+lista2                   3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 %
+zit-frontend             2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Frontend-RN              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
+Last Updated on 19/04/2023 23:12:05 UTC
 
- Last Updated on 19/04/2023 23:12:05 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>
@@ -124,7 +129,7 @@ Frontend-RN              1 hr 20 mins        ██░░░░░░░░░�
    <p align="center">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Zawoj/25095df9-0ebf-4239-8e01-cd568a60de5a.png" /></a>
   </p>
-</details> 
+</details>
 
 <details>
 <summary><b>💻&nbsp;&nbsp;Workspace Specs</b></summary>
@@ -136,4 +141,4 @@ Frontend-RN              1 hr 20 mins        ██░░░░░░░░░�
       <img alt="WSL" src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" />
       <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  </p>
-</details> 
+</details>

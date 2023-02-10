@@ -67,13 +67,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C476%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 218 Contributions in the Year 2023
+> 🏆 223 Contributions in the Year 2023
  > 
-> 📦 472.1 kB Used in GitHub's Storage 
+> 📦 472.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,22 +87,22 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               2 hrs 53 mins       ████████████████████████░   95.60 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               4 hrs 36 mins       ████████████████████████░   97.19 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hotspot-dashboard        1 hr 37 mins        █████████████░░░░░░░░░░░░   53.60 % 
-Frontend-RN              48 mins             ██████░░░░░░░░░░░░░░░░░░░   26.62 % 
-zawojit-system           35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+hotspot-dashboard        3 hrs 6 mins        ████████████████░░░░░░░░░   65.47 % 
+zawojit-system           49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Frontend-RN              48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 
 ```
 
 
- Last Updated on 09/02/2023 23:15:41 UTC
+ Last Updated on 10/02/2023 23:14:33 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

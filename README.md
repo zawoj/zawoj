@@ -42,7 +42,7 @@
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## Little experience or willingness to learn
+## Little experience
  <p>
    <img alt="ReactiveX" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" />
    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -125,4 +125,15 @@ materialy-szklane        48 mins             █░░░░░░░░░░�
    <p align="center">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Zawoj/25095df9-0ebf-4239-8e01-cd568a60de5a.png" /></a>
   </p>
+</details> 
+
+<details>
+<summary><b>💻&nbsp;&nbsp;Workspace Specs</b></summary>
+  <br><br>
+    <p>
+      <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-RTX3060TIOC-76B900?style=for-the-badge&logo=nvidia&logoColor=whitee" />
+      <img alt="Intel" src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      <img alt="WSL" src="ttps://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" />
+ </p>
 </details> 

@@ -12,7 +12,7 @@
 <!-- 💪 I'm currentyl working on my own. I make websites and online shops. I used to use [Bedrock roots](https://roots.io/bedrock/) but now [Next.js](https://nextjs.org/) + [Strapi CMS](https://strapi.io/) -->
 <!-- in [Nokia](https://github.com/nokia) and creating Dashboard (Frontend) for [Netzwind](https://netzwind.eu/). -->
 <!-- - 📫 How to reach me: zawojit@gmail.com -->
-## Technologies and Tools I feel confident with
+## Everyday Technologies
 <p>
 <!--https://github.com/Envoy-VC/awesome-badges -->
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> 

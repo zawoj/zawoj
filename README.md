@@ -134,6 +134,7 @@ materialy-szklane        48 mins             █░░░░░░░░░░�
       <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-RTX3060TIOC-76B900?style=for-the-badge&logo=nvidia&logoColor=whitee" />
       <img alt="Intel" src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
       <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-      <img alt="WSL" src="ttps://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" />
+      <img alt="WSL" src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" />
+      <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  </p>
 </details> 

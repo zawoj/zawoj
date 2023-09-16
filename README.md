@@ -80,19 +80,19 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C995%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C997%20hrs%2059%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 307.6 kB Used in GitHub's Storage 
+> 📦 308.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,548 Contributions in the Year 2023
+> 🏆 1,555 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 35 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -100,25 +100,20 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               4 hrs 54 mins       ██████████████████████░░░   87.87 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               4 hrs 51 mins       █████████████████████████   99.20 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zit-auth-front           2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
-zit-frontend             2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
-image-cropper            41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-zit-auth-backend-demo    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-zit-backend              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+zit-backend              2 hrs 47 mins       ██████████████░░░░░░░░░░░   56.54 % 
+zit-frontend             2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.87 % 
+mobileapp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
- Last Updated on 15/09/2023 23:10:47 UTC
+ Last Updated on 16/09/2023 23:10:21 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

@@ -80,17 +80,17 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C997%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C000%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 308.5 kB Used in GitHub's Storage 
+> 📦 308.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,555 Contributions in the Year 2023
+> 🏆 1,559 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
  > 
@@ -100,20 +100,24 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               4 hrs 51 mins       █████████████████████████   99.20 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               6 hrs 49 mins       ████████████████████████░   94.99 % 
+Objective-C              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zit-backend              2 hrs 47 mins       ██████████████░░░░░░░░░░░   56.54 % 
-zit-frontend             2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.87 % 
-mobileapp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+zit-backend              2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
+zit-auth-front           2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
+zit-frontend             2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+mobileapp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 
- Last Updated on 16/09/2023 23:10:21 UTC
+ Last Updated on 17/09/2023 23:10:26 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

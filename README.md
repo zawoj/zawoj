@@ -80,13 +80,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 327.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,754 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,17 +100,22 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 48 mins        ███████████████████████░░   92.84 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+e-commerce               1 hr 1 min          █████████████░░░░░░░░░░░░   52.38 % 
+printspree               55 mins             ████████████░░░░░░░░░░░░░   47.62 % 
 ```
 
 
- Last Updated on 31/12/2023 23:11:59 UTC
+ Last Updated on 01/01/2024 23:11:50 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

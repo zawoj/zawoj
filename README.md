@@ -4,7 +4,7 @@
 
 ## What I do
 
-- 🔭 I’m currently studing on Politechnika Wrocławska majoring in [Informatyka Algorytmiczna ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/)
+- 🔭 I graduated from Wroclaw University of Technology with a degree in [Algorithmic Computer Science ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/).
 - 💪 I'm currently working as Fullstack TypeScript Developer and mining my own business
 - 🌱 I’m currently learning Systems architecture and Devops
 - 💬 Ask me about anything

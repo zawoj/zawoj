@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C911%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C914%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 390.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,455 Contributions in the Year 2024
+> 🏆 1,458 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,17 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 9 mins        ██████████████████░░░░░░░   72.69 % 
+Bash                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       ███████████████████░░░░░░   74.31 % 
+Cursor                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sleepschooladmin         1 hr 58 mins        █████████████████░░░░░░░░   66.79 % 
+Frontend-RN              45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+sleepschool-cron         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Provida                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
- Last Updated on 24/09/2024 23:14:10 UTC
+ Last Updated on 25/09/2024 23:14:09 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

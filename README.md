@@ -8,8 +8,8 @@
 - 💪 I'm currently working as Fullstack TypeScript Developer and mining my own business
 - 🌱 I’m currently learning Systems architecture and Devops
 - 💬 Ask me about anything
-- 🛠 I'm currently work on custom Directus instance
-- ⚡I am interested in geopolitics and the stock market
+- 🛠 I'm currently work on PayloadCMS plugins.
+- ⚡I'm passionate about geopolitics, the stock market, and both World War II.
   <!-- - 📫 How to reach me: zawojit@gmail.com -->
 
 ## Everyday Technologies

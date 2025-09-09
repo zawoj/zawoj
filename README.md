@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C889%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 453.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,051 Contributions in the Year 2025
+> 🏆 1,053 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,20 +101,19 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        █████████████████████████   98.86 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               1 hr 51 mins        █████████████████████████   99.97 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Cursor                   1 hr 37 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-erson-v2                 1 hr 7 mins         █████████████████░░░░░░░░   69.00 % 
-lerners-search           30 mins             ████████░░░░░░░░░░░░░░░░░   31.00 % 
+lerners-search           1 hr 25 mins        ███████████████████░░░░░░   76.59 % 
+lerners-search-plugin    26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 ```
 
 
- Last Updated on 08/09/2025 23:15:07 UTC
+ Last Updated on 09/09/2025 23:14:20 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

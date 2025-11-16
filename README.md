@@ -81,6 +81,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C155%20hrs%2031%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 455.1 kB Used in GitHub's Storage 
@@ -93,8 +95,32 @@
  > 
 > 🔑 45 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/11/2025 23:14:51 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+TypeScript               20 hrs 12 mins      ████████████████░░░░░░░░░   62.63 % 
+JSON                     4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Bash                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JavaScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+CSS                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+
+🔥 Editors: 
+Cursor                   31 hrs 52 mins      █████████████████████████   98.77 % 
+VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+
+🐱‍💻 Projects: 
+erson-v2                 8 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+ceb-payload              8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+flexile-payload          5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+kaffy                    4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+irco                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+```
+
+
+ Last Updated on 16/11/2025 23:15:30 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

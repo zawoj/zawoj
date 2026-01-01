@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C258%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C259%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 455.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,851 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,17 +101,23 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+Markdown                 16 mins             ██████████░░░░░░░░░░░░░░░   38.94 % 
+TypeScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+C                        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+Cursor                   41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-payload                  0 secs              █████████████████████████   100.00 % 
+grow-box-sw              32 mins             ████████████████████░░░░░   78.76 % 
+flexile-payload          7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+payload                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
- Last Updated on 31/12/2025 23:17:31 UTC
+ Last Updated on 01/01/2026 23:17:54 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

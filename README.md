@@ -81,6 +81,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C272%20hrs%2049%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 455.3 kB Used in GitHub's Storage 
@@ -93,8 +95,29 @@
  > 
 > 🔑 45 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/01/2026 23:17:11 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Markdown                 16 mins             ██████████░░░░░░░░░░░░░░░   38.94 % 
+TypeScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+C                        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+
+🔥 Editors: 
+Cursor                   41 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+grow-box-sw              32 mins             ████████████████████░░░░░   78.76 % 
+flexile-payload          7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+payload                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+ Last Updated on 04/01/2026 23:17:30 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

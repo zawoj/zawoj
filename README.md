@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C272%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C272%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 455.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,7 +117,7 @@ payload                  1 min               █░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/01/2026 23:17:30 UTC
+ Last Updated on 05/01/2026 23:18:03 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

@@ -81,7 +81,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C452%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C456%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.19 % 
-Other                    2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Bash                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+TypeScript               8 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+Bash                     3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Other                    2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+JSON                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 49 mins      ████████████████████████░   96.50 % 
-VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Cursor                   17 hrs 3 mins       ████████████████████████░   96.75 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-erson-v2                 3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-irco                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-josh-frontend            2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Zimnafuzjawebsitedesign  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-josh                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+irco                     6 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.18 % 
+erson-v2                 3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+josh-frontend            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+zavcode                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Zimnafuzjawebsitedesign  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 
 
- Last Updated on 12/03/2026 23:25:28 UTC
+ Last Updated on 13/03/2026 23:25:31 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

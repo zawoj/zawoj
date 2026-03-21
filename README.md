@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C466%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C471%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 426.7 kB Used in GitHub's Storage 
  > 
-> 🏆 733 Contributions in the Year 2026
+> 🏆 738 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               5 hrs 25 mins       █████████████░░░░░░░░░░░░   52.31 % 
-Other                    1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+TypeScript               8 hrs 13 mins       ██████████████░░░░░░░░░░░   57.09 % 
+Other                    2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 19 mins      █████████████████████████   99.48 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Cursor                   14 hrs 21 mins      █████████████████████████   99.63 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-irco                     3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-erson-v2                 2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-kaffy                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-lamp-generator           1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-zavcode                  1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+irco                     4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+kaffy                    3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+erson-v2                 2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+zavcode                  2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+lamp-generator           1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 
- Last Updated on 20/03/2026 23:26:13 UTC
+ Last Updated on 21/03/2026 23:22:33 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

@@ -87,7 +87,7 @@
 
 > 📦 426.7 kB Used in GitHub's Storage 
  > 
-> 🏆 834 Contributions in the Year 2026
+> 🏆 837 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               12 hrs 59 mins      ██████████████████░░░░░░░   71.04 % 
-Bash                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+TypeScript               14 hrs 55 mins      ██████████████████░░░░░░░   70.49 % 
+Bash                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 23 mins      █████████████████████░░░░   84.19 % 
-VS Code                  2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Cursor                   17 hrs 44 mins      █████████████████████░░░░   83.82 % 
+VS Code                  3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 
 🐱‍💻 Projects: 
-zavcode                  9 hrs 22 mins       █████████████░░░░░░░░░░░░   51.30 % 
-erson-v2                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-irco                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-kaffy                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-josh-frontend            57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+zavcode                  11 hrs 38 mins      ██████████████░░░░░░░░░░░   55.02 % 
+erson-v2                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+irco                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+kaffy                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+josh-frontend            57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 
 
- Last Updated on 01/04/2026 23:33:37 UTC
+ Last Updated on 02/04/2026 23:32:25 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

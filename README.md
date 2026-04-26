@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C598%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C604%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 426.7 kB Used in GitHub's Storage 
  > 
-> 🏆 993 Contributions in the Year 2026
+> 🏆 994 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,27 +101,27 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               22 hrs 4 mins       ██████████████████░░░░░░░   71.03 % 
-Markdown                 3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Other                    2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+TypeScript               23 hrs 19 mins      █████████████████░░░░░░░░   67.32 % 
+Other                    3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Markdown                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 51 mins      ██████████████░░░░░░░░░░░   54.25 % 
-VS Code                  12 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.02 % 
-Unknown Editor           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+VS Code                  18 hrs 1 min        █████████████░░░░░░░░░░░░   52.01 % 
+Cursor                   15 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
+Unknown Editor           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projects: 
-ceb-payload              14 hrs 38 mins      ████████████░░░░░░░░░░░░░   47.11 % 
-zavcode                  7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-at-payload               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-irco                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-erson-v2                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+ceb-payload              14 hrs 38 mins      ███████████░░░░░░░░░░░░░░   42.26 % 
+zavcode                  11 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   32.40 % 
+at-payload               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+irco                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+erson-v2                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 
 
- Last Updated on 25/04/2026 23:15:14 UTC
+ Last Updated on 26/04/2026 23:16:01 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

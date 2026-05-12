@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C681%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C688%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 433.9 kB Used in GitHub's Storage 
+> 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,329 Contributions in the Year 2026
+> 🏆 1,348 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,32 +95,8 @@
  > 
 > 🔑 46 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-TypeScript               22 hrs 41 mins      ████████████████░░░░░░░░░   65.04 % 
-Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Markdown                 3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-
-🔥 Editors: 
-VS Code                  33 hrs 7 mins       ████████████████████████░   94.97 % 
-Unknown Editor           1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-
-🐱‍💻 Projects: 
-ceb-payload              15 hrs 8 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
-erson-v2                 6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-zavcode                  5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-at-payload               4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Unknown Project          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-
-
- Last Updated on 11/05/2026 23:22:07 UTC
+ Last Updated on 12/05/2026 23:26:08 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

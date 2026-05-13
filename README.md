@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C688%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C695%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,348 Contributions in the Year 2026
+> 🏆 1,357 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,8 +95,32 @@
  > 
 > 🔑 46 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 12/05/2026 23:26:08 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+TypeScript               23 hrs 36 mins      ████████████████░░░░░░░░░   65.58 % 
+Markdown                 4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other                    3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+JSON                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 35 mins      ████████████████████████░   96.07 % 
+Unknown Editor           1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+
+🐱‍💻 Projects: 
+at-payload               10 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+zavcode                  7 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+ceb-payload              5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+erson-v2                 4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+ceb-demo-modules         2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+```
+
+
+ Last Updated on 13/05/2026 23:26:51 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

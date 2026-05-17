@@ -81,13 +81,11 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C711%20hrs%2023%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,381 Contributions in the Year 2026
+> 🏆 1,386 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,32 +93,8 @@
  > 
 > 🔑 46 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-TypeScript               24 hrs 42 mins      █████████████████░░░░░░░░   66.37 % 
-Other                    4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Markdown                 3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-🔥 Editors: 
-VS Code                  35 hrs 31 mins      ████████████████████████░   95.43 % 
-Unknown Editor           1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-
-🐱‍💻 Projects: 
-at-payload               13 hrs              █████████░░░░░░░░░░░░░░░░   34.93 % 
-zavcode                  6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-ceb                      4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-ceb-payload              3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-ceb-demo-modules         2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-```
-
-
- Last Updated on 16/05/2026 23:20:12 UTC
+ Last Updated on 17/05/2026 23:21:40 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

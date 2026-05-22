@@ -81,6 +81,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C785%20hrs%201%20min-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 470.4 kB Used in GitHub's Storage 
@@ -93,8 +95,33 @@
  > 
 > 🔑 46 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 21/05/2026 23:25:38 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+TypeScript               14 hrs 43 mins      █████████████████░░░░░░░░   67.24 % 
+Markdown                 3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 45 mins      █████████████████████░░░░   85.58 % 
+Claude Code              3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+🐱‍💻 Projects: 
+zavcode                  9 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.84 % 
+irco                     4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+ceb-payload              2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+at-payload               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+PyCrossfadeV2            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+```
+
+
+ Last Updated on 22/05/2026 23:26:56 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

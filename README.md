@@ -87,7 +87,7 @@
 
 > 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,389 Contributions in the Year 2026
+> 🏆 1,391 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,27 +101,27 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               11 hrs 5 mins       ████████████████░░░░░░░░░   63.80 % 
-Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               7 hrs 17 mins       ███████████████░░░░░░░░░░   58.35 % 
+Markdown                 2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 19 mins      █████████████████████░░░░   82.34 % 
-Claude Code              2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+VS Code                  9 hrs 34 mins       ███████████████████░░░░░░   76.61 % 
+Claude Code              2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-zavcode                  9 hrs 40 mins       ██████████████░░░░░░░░░░░   55.65 % 
-irco                     4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-PyCrossfadeV2            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-ceb-payload              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-erson-v2                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+zavcode                  5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
+irco                     4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.21 % 
+PyCrossfadeV2            1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+ceb-payload              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+erson-v2                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 
 
- Last Updated on 23/05/2026 23:21:15 UTC
+ Last Updated on 24/05/2026 23:24:19 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

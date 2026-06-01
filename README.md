@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C820%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C821%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,423 Contributions in the Year 2026
+> 🏆 1,424 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               22 hrs 52 mins      ████████████████░░░░░░░░░   65.07 % 
-Markdown                 5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Bash                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TypeScript               20 hrs 42 mins      ████████████████░░░░░░░░░   62.35 % 
+Markdown                 4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+JSON                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 32 mins      ██████████████████████░░░   89.71 % 
-Claude Code              3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+VS Code                  29 hrs 33 mins      ██████████████████████░░░   89.00 % 
+Claude Code              3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 
 🐱‍💻 Projects: 
-irco                     13 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.79 % 
-erson-v2                 7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-mvp-generator-poc        4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-the-5-voter              3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-flex-nest                1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+irco                     12 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.75 % 
+erson-v2                 7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+mvp-generator-poc        4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+the-5-voter              3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+strefajob-mobile         1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 
 
- Last Updated on 31/05/2026 23:26:12 UTC
+ Last Updated on 01/06/2026 23:33:18 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

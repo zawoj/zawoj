@@ -87,7 +87,7 @@
 
 > 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,598 Contributions in the Year 2026
+> 🏆 1,603 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,27 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               17 hrs 38 mins      █████████████░░░░░░░░░░░░   52.76 % 
-Markdown                 8 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-JavaScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TypeScript               13 hrs              █████████████░░░░░░░░░░░░   52.95 % 
+Markdown                 5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+JavaScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 1 min        ████████████████████░░░░░   80.83 % 
-Claude Code              6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  21 hrs 32 mins      ██████████████████████░░░   87.65 % 
+Claude Code              3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 
 🐱‍💻 Projects: 
-zavcode                  11 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-framer                   4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-erson-v2                 4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-stylegrid-marketplace-sto3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-mvp-generator-poc        2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+zavcode                  7 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+framer                   4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+erson-v2                 4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+stylegrid-marketplace-sto3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+irco                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 
 
- Last Updated on 19/06/2026 23:25:41 UTC
+ Last Updated on 21/06/2026 23:31:58 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

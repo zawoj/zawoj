@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C906%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C907%20hrs%2047%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 470.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,628 Contributions in the Year 2026
+> 🏆 1,669 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               11 hrs 58 mins      █████████████░░░░░░░░░░░░   50.60 % 
-Markdown                 6 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-JavaScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TypeScript               6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
+Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+JavaScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 41 mins      ██████████████████░░░░░░░   70.52 % 
-Claude Code              6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+VS Code                  8 hrs 46 mins       ██████████████░░░░░░░░░░░   56.10 % 
+Claude Code              6 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
 
 🐱‍💻 Projects: 
-zavcode                  6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-framer                   4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-erson-v2                 4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-stylegrid-marketplace-sto3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-irco                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+framer                   4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+zavcode                  3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+at-payload               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+stylegrid-marketplace-sto1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+erson-v2                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 
- Last Updated on 22/06/2026 23:32:40 UTC
+ Last Updated on 23/06/2026 23:26:37 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

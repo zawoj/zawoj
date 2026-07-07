@@ -81,13 +81,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C934%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C934%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,742 Contributions in the Year 2026
+> 🏆 1,747 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               10 hrs 23 mins      █████████████░░░░░░░░░░░░   50.51 % 
-Markdown                 6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+TypeScript               7 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.01 % 
+Markdown                 6 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.17 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 3 mins       ███████████████████████░░   92.70 % 
-VS Code                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Claude Code              14 hrs 47 mins      ███████████████████████░░   92.46 % 
+VS Code                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🐱‍💻 Projects: 
-irco                     6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-payload-starter          4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-at-payload               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-zavcode                  2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-strefajob-mobile         1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+irco                     5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
+payload-starter          4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+at-payload               2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+strefajob-mobile         1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+erson-v2                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 
 
- Last Updated on 06/07/2026 23:27:12 UTC
+ Last Updated on 07/07/2026 23:21:52 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

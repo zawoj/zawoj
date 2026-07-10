@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.17 % 
-Markdown                 2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
-Bash                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+TypeScript               9 hrs 35 mins       ███████████████░░░░░░░░░░   59.91 % 
+Markdown                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 38 mins       █████████████████████░░░░   84.93 % 
-VS Code                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Claude Code              14 hrs 48 mins      ███████████████████████░░   92.42 % 
+VS Code                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🐱‍💻 Projects: 
-irco                     3 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.00 % 
-payload-starter          1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-erson-v2                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-at-payload               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-website                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+erson-v2                 6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
+irco                     4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
+founder-agreement        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+at-payload               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+mvp-generator-poc        52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
- Last Updated on 09/07/2026 23:29:02 UTC
+ Last Updated on 10/07/2026 23:21:26 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

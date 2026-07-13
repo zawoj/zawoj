@@ -101,26 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               5 hrs 26 mins       ██████████████░░░░░░░░░░░   56.28 % 
-Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TypeScript               3 hrs 42 mins       █████████████░░░░░░░░░░░░   53.33 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 11 mins       ████████████████████████░   95.02 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Claude Code              6 hrs 32 mins       ████████████████████████░   94.03 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🐱‍💻 Projects: 
-erson-v2                 4 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-irco                     3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.86 % 
-mvp-generator-poc        53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-at-payload               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-jaab_website             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+irco                     3 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.68 % 
+erson-v2                 2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
+mvp-generator-poc        31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+at-payload               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+jaab_website             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 
- Last Updated on 12/07/2026 23:19:29 UTC
+ Last Updated on 13/07/2026 23:20:31 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

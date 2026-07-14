@@ -101,26 +101,25 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       █████████████░░░░░░░░░░░░   53.33 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TypeScript               2 hrs 25 mins       ████████████████░░░░░░░░░   65.25 % 
+Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 32 mins       ████████████████████████░   94.03 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Claude Code              3 hrs 25 mins       ███████████████████████░░   92.04 % 
+VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🐱‍💻 Projects: 
-irco                     3 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.68 % 
-erson-v2                 2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
-mvp-generator-poc        31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-at-payload               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-jaab_website             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+irco                     2 hrs 37 mins       ██████████████████░░░░░░░   70.41 % 
+erson-v2                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+at-payload               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+mvp-generator-poc        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
- Last Updated on 13/07/2026 23:20:31 UTC
+ Last Updated on 14/07/2026 23:19:30 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

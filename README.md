@@ -87,7 +87,7 @@
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,753 Contributions in the Year 2026
+> 🏆 1,754 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,25 +101,26 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               2 hrs 25 mins       ████████████████░░░░░░░░░   65.25 % 
-Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+TypeScript               1 hr 5 mins         █████████████████░░░░░░░░   66.15 % 
+Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 25 mins       ███████████████████████░░   92.04 % 
-VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Claude Code              1 hr 27 mins        ██████████████████████░░░   88.55 % 
+VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 🐱‍💻 Projects: 
-irco                     2 hrs 37 mins       ██████████████████░░░░░░░   70.41 % 
-erson-v2                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-at-payload               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-mvp-generator-poc        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+irco                     1 hr 2 mins         ████████████████░░░░░░░░░   63.26 % 
+at-payload               32 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+thumbs                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+mvp-generator-poc        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+scratchpad               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
- Last Updated on 14/07/2026 23:19:30 UTC
+ Last Updated on 15/07/2026 23:21:16 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

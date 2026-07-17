@@ -101,26 +101,19 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         █████████████████░░░░░░░░   66.15 % 
-Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Markdown                 1 min               █████████████░░░░░░░░░░░░   51.88 % 
+JSON                     1 min               ████████████░░░░░░░░░░░░░   48.12 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ██████████████████████░░░   88.55 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-irco                     1 hr 2 mins         ████████████████░░░░░░░░░   63.26 % 
-at-payload               32 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-thumbs                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-mvp-generator-poc        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-scratchpad               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+at-payload               1 min               █████████████░░░░░░░░░░░░   51.88 % 
+mvp-generator-poc        1 min               ████████████░░░░░░░░░░░░░   48.12 % 
 ```
 
 
- Last Updated on 15/07/2026 23:21:16 UTC
+ Last Updated on 17/07/2026 23:18:49 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

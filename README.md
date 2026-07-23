@@ -81,8 +81,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C936%20hrs%2042%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
@@ -111,7 +109,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2026 23:22:26 UTC
+ Last Updated on 23/07/2026 23:20:58 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

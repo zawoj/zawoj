@@ -81,10 +81,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C875%20hrs%2046%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-454%20hrs%2024%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
@@ -103,23 +99,41 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               33 mins             ████████████████████████░   95.41 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              20 mins             ███████████████░░░░░░░░░░   59.07 % 
+VS Code                  14 mins             ██████████░░░░░░░░░░░░░░░   40.93 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+irco                     35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (83.37%)
+
+✍️ 21 lines written by AI, 4 lines written by hand (84.0% AI-written)
+
+🔤 1,081,549 Input Tokens, 8,824 Output Tokens
+
+💵 $5.63 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Opus                     23 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.0% of written lines came from AI
+📚 Verbose Prompter — average 7,501 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 23.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 23:24:31 UTC
+ Last Updated on 28/07/2026 23:22:41 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

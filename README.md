@@ -81,15 +81,15 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
 <!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C879%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C881%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-458%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,755 Contributions in the Year 2026
+> 🏆 1,757 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,45 +103,45 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   40.44 % 
-TypeScript               1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.70 % 
-Bash                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               2 hrs 54 mins       █████████████░░░░░░░░░░░░   50.40 % 
+Markdown                 1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 46 mins       █████████████████████░░░░   85.00 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Claude Code              4 hrs 5 mins        ██████████████████░░░░░░░   71.00 % 
+VS Code                  1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
 
 🐱‍💻 Projects: 
-irco                     3 hrs 15 mins       █████████████████████████   100.00 % 
+irco                     5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (94.41%)
+⏱ AI Coding Time: 4 hrs 32 mins (78.58%)
 
-✍️ 364 lines written by AI, 4 lines written by hand (98.91% AI-written)
+✍️ 1,070 lines written by AI, 48 lines written by hand (95.71% AI-written)
 
-🔤 47,943,251 Input Tokens, 137,228 Output Tokens
+🔤 76,068,802 Input Tokens, 236,545 Output Tokens
 
-💵 $242.61 Estimated AI Cost This Week
+💵 $384.03 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 32 AI Prompts
+🧠 4 AI Sessions, 60 AI Prompts
 
-Opus                     490 lines           █████████████████████████   100.00 % 
+Opus                     1,499 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.91% of written lines came from AI
-📄 Detailed Prompter — average 1,116 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 44.0% of changed lines were hand-edited
+🤖 AI-Driven — 95.71% of written lines came from AI
+📄 Detailed Prompter — average 1,398 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 24.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 23:22:32 UTC
+ Last Updated on 30/07/2026 23:23:50 UTC
 <!--END_SECTION:waka-->
 </details> 
 <details>

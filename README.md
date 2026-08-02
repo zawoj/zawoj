@@ -1,154 +1,119 @@
-# Hi, I'm Zawoj   nice to see you <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
+# Hi, I'm Zawoj nice to see you <a href="https://github.com/zawoj"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zawoj)](https://github.com/ryo-ma/github-profile-trophy) -->
+> ### _"Tell me I can't."_
 
-## What I do
+Builder by default. I like making things that didn't exist yesterday - software, businesses, and occasionally something printed in plastic at 2 AM.
 
-- 🔭 I graduated from Wroclaw University of Technology with a degree in [Algorithmic Computer Science ](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/).
-- 💪 I'm currently working as Fullstack TypeScript Developer and mining my own business
-- 🌱 I’m currently learning Systems architecture and Devops
-- 💬 Ask me about anything
-- 🛠 I'm currently work on PayloadCMS plugins.
-- ⚡I'm passionate about geopolitics, the stock market, and World War II.
-  <!-- - 📫 How to reach me: zawojit@gmail.com -->
+## 🚀 What I'm working on
 
-## Everyday Technologies
+- 🏢 **WAYF** - PayloadCMS Expert / Senior Engineer. Implementing Payload CMS for some of the biggest companies in the world.
+- 🧩 **Zavcode** - my own studio building PayloadCMS products.
+- 💚 **Contributor to [Payload](https://github.com/payloadcms/payload)** - giving back to the CMS I build my life around.
+- 🤖 **JAAB** - _Just Another App Builder_, for people who don't code.
+
+## 🌱 What I'm learning
+
+- ⚛️ **Physics - quantum computing.** Because "that's too hard" is exactly the kind of thing you tell me.
+
+## 👋 About me
+
+- 🎓 Graduated from Wrocław University of Science and Technology with a degree in [Algorithmic Computer Science](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/).
+- 🧠 I love building new things - code, products, companies, prototypes.
+- 🖨️ I own a few **3D printers** and use them way more than I should.
+- 📈 Active entrepreneur - I build and grow businesses, not just repos.
+- 🤝 Member of **The5**, a group of Polish entrepreneurs.
+- ⚡ Passionate about geopolitics, the stock market, and World War II history.
+- 💬 Ask me about anything.
+
+## 🛠 Everyday stack
 
 <p>
-<!--https://github.com/Envoy-VC/awesome-badges -->
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Payload CMS" src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> 
-  <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" /> 
-  <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-## I was dealing with
+🧱 **And the part that isn't a badge:** systems architecture - designing and engineering systems that are built _for AI to work in_, not just for humans to read.
 
- <p>
-   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p> 
+## 🧰 Tools I use every day
 
-## Little experience
-
- <p>
-   <img alt="ReactiveX" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" />
-   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> 
- </p>
-
- 
-## Tools and Programs
-   <p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p>
+  <img alt="Zed" src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+</p>
 
-<br><br>
+- **IDE:** Zed
+- **AI:** Claude Code
+- **Task tracking / second brain:** Notion _(PS: I'm a certified Notion maniac 🤓)_
+
+<br>
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-      <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=zawoj&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Material Bread logo">
+      <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=zawoj&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
     </a>
 </p>
+
 <br>
 
-## About me and what I do
+## 📊 Stats & setup
 
 <details>
 <summary><b>📊&nbsp;&nbsp;Some&nbsp;stats</b></summary>
  <br>
-  
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawojweb&layout=compact)](https://wakatime.com/@ZawojWeb)<br><br>-->
-<!--[![wakatime](https://wakatime.com/badge/user/8f53e773-3586-491c-a5f4-60056d0830aa.svg)](https://wakatime.com/@8f53e773-3586-491c-a5f4-60056d0830aa)-->
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C883%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C886%20hrs-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 471.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1,759 Contributions in the Year 2026
- > 
+> 📦 470.4 kB Used in GitHub's Storage
+>
+> 🏆 1,575 Contributions in the Year 2026
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 47 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
+>
+> 📜 25 Public Repositories
+>
+> 🔑 46 Private Repositories
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Warsaw
 
-💬 Programming Languages: 
-TypeScript               7 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.99 % 
-Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Rust                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+💬 Programming Languages:
+TypeScript               15 hrs 19 mins      ████████████░░░░░░░░░░░░░   48.03 %
+Markdown                 8 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 %
+Astro                    2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 
-🔥 Editors: 
-Claude Code              14 hrs 1 min        █████████████████████░░░░   84.07 % 
-VS Code                  2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🔥 Editors:
+VS Code                  25 hrs 29 mins      ████████████████████░░░░░   79.89 %
+Claude Code              6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 
-🐱‍💻 Projects: 
-irco                     6 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
-payload-starter          3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-mvp-generator-poc        2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-zavcode                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-payload                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🐱‍💻 Projects:
+payload-starter          11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.45 %
+zavcode                  4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
+irco                     4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+at-payload               3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+mvp-generator-poc        2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 25 mins (92.52%)
-
-✍️ 8,015 lines written by AI, 48 lines written by hand (99.4% AI-written)
-
-🔤 393,029,898 Input Tokens, 1,204,517 Output Tokens
-
-💵 $1755.71 Estimated AI Cost This Week
-
-🧠 43 AI Sessions, 187 AI Prompts
-
-Opus                     7,485 lines         ████████████████████░░░░░   80.95 % 
-Sonnet                   1,762 lines         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📚 Verbose Prompter — average 2,416 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.12% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/08/2026 23:20:22 UTC
+Last Updated on 15/06/2026 23:36:39 UTC
 <!--END_SECTION:waka-->
-</details> 
+</details>
+
 <details>
 <summary><b>⌛&nbsp;&nbsp;All&nbsp;times&nbsp;languages</b></summary>
   <br><br>
@@ -158,13 +123,14 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 </details>
 
 <details>
-<summary><b>💻&nbsp;&nbsp;Workspace Specs</b></summary>
+<summary><b>💻&nbsp;&nbsp;Current setup</b></summary>
   <br><br>
     <p>
-      <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-RTX3060TIOC-76B900?style=for-the-badge&logo=nvidia&logoColor=whitee" />
-      <img alt="Intel" src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-      <img alt="WSL" src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" />
-      <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img alt="MacBook Pro" src="https://img.shields.io/badge/MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white" />
+      <img alt="M5 Pro" src="https://img.shields.io/badge/Apple_M5_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      <img alt="RAM" src="https://img.shields.io/badge/RAM-48GB-4B32C3?style=for-the-badge" />
+      <img alt="SSD" src="https://img.shields.io/badge/SSD-1TB-0071C5?style=for-the-badge" />
+      <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
  </p>
+ <p>MacBook Pro M5 Pro · 48 GB RAM · 1 TB SSD - plus a few 3D printers humming in the background.</p>
 </details>

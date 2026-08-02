@@ -49,9 +49,6 @@ Builder by default. I like making things that didn't exist yesterday - software,
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-- **IDE:** Zed
-- **AI:** Claude Code
-- **Task tracking / second brain:** Notion _(PS: I'm a certified Notion maniac 🤓)_
 
 <br>
 

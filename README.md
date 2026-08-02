@@ -67,47 +67,72 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C883%20hrs%2024%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C886%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%203%20mins-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 470.4 kB Used in GitHub's Storage
->
-> 🏆 1,575 Contributions in the Year 2026
->
+> 📦 471.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,763 Contributions in the Year 2026
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 25 Public Repositories
->
-> 🔑 46 Private Repositories
-
-📊 **This Week I Spent My Time On**
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 47 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Warsaw
 
-💬 Programming Languages:
-TypeScript               15 hrs 19 mins      ████████████░░░░░░░░░░░░░   48.03 %
-Markdown                 8 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 %
-Astro                    2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+💬 Programming Languages: 
+TypeScript               7 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.99 % 
+Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Rust                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
-🔥 Editors:
-VS Code                  25 hrs 29 mins      ████████████████████░░░░░   79.89 %
-Claude Code              6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+🔥 Editors: 
+Claude Code              14 hrs 1 min        █████████████████████░░░░   84.07 % 
+VS Code                  2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 
-🐱‍💻 Projects:
-payload-starter          11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.45 %
-zavcode                  4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
-irco                     4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-at-payload               3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-mvp-generator-poc        2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+🐱‍💻 Projects: 
+irco                     6 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
+payload-starter          3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+mvp-generator-poc        2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+zavcode                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+payload                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 
-Last Updated on 15/06/2026 23:36:39 UTC
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 25 mins (92.52%)
+
+✍️ 8,015 lines written by AI, 48 lines written by hand (99.4% AI-written)
+
+🔤 393,029,898 Input Tokens, 1,204,517 Output Tokens
+
+💵 $1755.71 Estimated AI Cost This Week
+
+🧠 43 AI Sessions, 187 AI Prompts
+
+Opus                     7,485 lines         ████████████████████░░░░░   80.95 % 
+Sonnet                   1,762 lines         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.4% of written lines came from AI
+📚 Verbose Prompter — average 2,416 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.12% of changed lines were hand-edited
+```
+
+
+ Last Updated on 02/08/2026 23:20:56 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -89,50 +89,50 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               7 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-Markdown                 4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Rust                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               5 hrs 56 mins       █████████████░░░░░░░░░░░░   52.29 % 
+Markdown                 2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 57 mins      █████████████████████░░░░   85.48 % 
-VS Code                  2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Claude Code              9 hrs 23 mins       █████████████████████░░░░   82.67 % 
+VS Code                  1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 
 🐱‍💻 Projects: 
-irco                     5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.87 % 
-payload-starter          3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-mvp-generator-poc        3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-zavcode                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-payload                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+payload-starter          3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+irco                     2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+zavcode                  2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+payload                  1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+mvp-generator-poc        1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 11 mins (92.97%)
+⏱ AI Coding Time: 10 hrs 17 mins (90.63%)
 
-✍️ 8,037 lines written by AI, 44 lines written by hand (99.46% AI-written)
+✍️ 5,233 lines written by AI, 44 lines written by hand (99.17% AI-written)
 
-🔤 394,489,455 Input Tokens, 1,207,862 Output Tokens
+🔤 261,977,067 Input Tokens, 823,432 Output Tokens
 
-💵 $1762.37 Estimated AI Cost This Week
+💵 $1091.60 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 181 AI Prompts
+🧠 34 AI Sessions, 138 AI Prompts
 
-Opus                     7,512 lines         ████████████████████░░░░░   81.00 % 
-Sonnet                   1,762 lines         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Opus                     4,519 lines         ██████████████████░░░░░░░   71.95 % 
+Sonnet                   1,762 lines         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📚 Verbose Prompter — average 2,244 characters per prompt
+🤖 AI-Driven — 99.17% of written lines came from AI
+📚 Verbose Prompter — average 2,674 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.04% of changed lines were hand-edited
+🚀 High AI Trust — 1.79% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 23:23:41 UTC
+ Last Updated on 05/08/2026 23:57:34 UTC
 <!--END_SECTION:waka-->
 </details>
 

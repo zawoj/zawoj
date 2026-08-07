@@ -67,11 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C883%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2020%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,788 Contributions in the Year 2026
+> 🏆 1,818 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,8 +83,56 @@ Builder by default. I like making things that didn't exist yesterday - software,
  > 
 > 🔑 47 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2026 01:40:24 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+TypeScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+CSS                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+TSConfig                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 6 mins        ██████████████████████░░░   87.17 % 
+VS Code                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+
+🐱‍💻 Projects: 
+payload-starter          1 hr 26 mins        ███████████████░░░░░░░░░░   59.77 % 
+irco                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+mvp-generator-poc        17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+payload                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+erson-v2                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 24 mins (99.56%)
+
+✍️ 1,005 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 26,231,054 Input Tokens, 124,339 Output Tokens
+
+💵 $221.61 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 46 AI Prompts
+
+Opus                     1,030 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,087 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 23:30:37 UTC
 <!--END_SECTION:waka-->
 </details>
 

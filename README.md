@@ -67,72 +67,20 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C883%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2020%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,782 Contributions in the Year 2026
+> 🏆 1,788 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 47 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       █████████████░░░░░░░░░░░░   52.29 % 
-Markdown                 2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-
-🔥 Editors: 
-Claude Code              9 hrs 23 mins       █████████████████████░░░░   82.67 % 
-VS Code                  1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-
-🐱‍💻 Projects: 
-payload-starter          3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-irco                     2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-zavcode                  2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-payload                  1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-mvp-generator-poc        1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 17 mins (90.63%)
-
-✍️ 5,233 lines written by AI, 44 lines written by hand (99.17% AI-written)
-
-🔤 261,977,067 Input Tokens, 823,432 Output Tokens
-
-💵 $1091.60 Estimated AI Cost This Week
-
-🧠 34 AI Sessions, 138 AI Prompts
-
-Opus                     4,519 lines         ██████████████████░░░░░░░   71.95 % 
-Sonnet                   1,762 lines         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.17% of written lines came from AI
-📚 Verbose Prompter — average 2,674 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.79% of changed lines were hand-edited
-```
-
-
- Last Updated on 05/08/2026 23:57:34 UTC
+ Last Updated on 07/08/2026 01:40:24 UTC
 <!--END_SECTION:waka-->
 </details>
 

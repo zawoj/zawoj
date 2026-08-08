@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,818 Contributions in the Year 2026
+> 🏆 1,826 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,50 +89,41 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-CSS                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-TSConfig                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Markdown                 17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 6 mins        ██████████████████████░░░   87.17 % 
-VS Code                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Claude Code              17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-payload-starter          1 hr 26 mins        ███████████████░░░░░░░░░░   59.77 % 
-irco                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-mvp-generator-poc        17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-payload                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-erson-v2                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+mvp-generator-poc        17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (99.56%)
+⏱ AI Coding Time: 17 mins (100.0%)
 
-✍️ 1,005 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 43 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,231,054 Input Tokens, 124,339 Output Tokens
+🔤 2,541,106 Input Tokens, 12,169 Output Tokens
 
-💵 $221.61 Estimated AI Cost This Week
+💵 $101.24 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 46 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
-Opus                     1,030 lines         █████████████████████████   100.00 % 
+Opus                     52 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,087 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 108 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 23:30:37 UTC
+ Last Updated on 08/08/2026 23:25:06 UTC
 <!--END_SECTION:waka-->
 </details>
 

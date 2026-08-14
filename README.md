@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C883%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C884%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,882 Contributions in the Year 2026
+> 🏆 1,883 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,23 +89,44 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               17 mins             █████████████░░░░░░░░░░░░   53.68 % 
+TypeScript               15 mins             ████████████░░░░░░░░░░░░░   46.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              11 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
+VS Code                  10 mins             ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Codex Vscode             10 mins             ████████░░░░░░░░░░░░░░░░░   31.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+open-mercato             32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 32 mins (100.0%)
+
+✍️ 57 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 346,106 Input Tokens, 70,505 Output Tokens
+
+💵 $8.46 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 8 AI Prompts
+
+GPT                      57 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 20,972 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 23:37:37 UTC
+ Last Updated on 14/08/2026 23:18:23 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C884%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C884%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 471.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,883 Contributions in the Year 2026
+> 🏆 1,956 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,30 +89,33 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████░░░░░░░░░░░░   53.68 % 
-TypeScript               15 mins             ████████████░░░░░░░░░░░░░   46.32 % 
+JavaScript               17 mins             ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+TypeScript               15 mins             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
 
 🔥 Editors: 
-Claude Code              11 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
-VS Code                  10 mins             ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Codex Vscode             10 mins             ████████░░░░░░░░░░░░░░░░░   31.76 % 
+VS Code                  30 mins             █████████████░░░░░░░░░░░░   52.15 % 
+Claude Code              17 mins             ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+Codex Vscode             10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 🐱‍💻 Projects: 
-open-mercato             32 mins             █████████████████████████   100.00 % 
+open-mercato             32 mins             ██████████████░░░░░░░░░░░   56.33 % 
+strefajob-mobile         25 mins             ███████████░░░░░░░░░░░░░░   43.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (100.0%)
+⏱ AI Coding Time: 58 mins (100.0%)
 
 ✍️ 57 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 346,106 Input Tokens, 70,505 Output Tokens
+🔤 433,959 Input Tokens, 82,678 Output Tokens
 
-💵 $8.46 Estimated AI Cost This Week
+💵 $9.89 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 16 AI Sessions, 29 AI Prompts
 
 GPT                      57 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -120,13 +123,13 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 20,972 characters per prompt
+📚 Verbose Prompter — average 6,212 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 23:18:23 UTC
+ Last Updated on 15/08/2026 23:17:04 UTC
 <!--END_SECTION:waka-->
 </details>
 

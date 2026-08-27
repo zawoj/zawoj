@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 473.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,235 Contributions in the Year 2026
+> 🏆 2,243 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,23 +89,49 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 30 mins       ███████████████░░░░░░░░░░   59.92 % 
+Markdown                 1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 38 mins       ████████████████░░░░░░░░░   62.85 % 
+VS Code                  1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stylegrid                1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+stylegrid-mobile         57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+stylegrid-marketplace-sto56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+stylegrid-marketplace    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+strefajob-mobile         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 10 mins (99.69%)
+
+✍️ 1,177 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,290,641 Input Tokens, 299,323 Output Tokens
+
+💵 $53.35 Estimated AI Cost This Week
+
+🧠 38 AI Sessions, 75 AI Prompts
+
+Opus                     1,197 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 733 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 23:22:06 UTC
+ Last Updated on 27/08/2026 04:12:53 UTC
 <!--END_SECTION:waka-->
 </details>
 

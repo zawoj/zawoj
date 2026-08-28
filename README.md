@@ -67,21 +67,21 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C884%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C885%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 473.0 kB Used in GitHub's Storage 
+> 📦 474.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,243 Contributions in the Year 2026
+> 🏆 2,267 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 49 Private Repositories 
+> 🔑 50 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -89,49 +89,49 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ███████████████░░░░░░░░░░   59.92 % 
-Markdown                 1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               46 mins             ████████████░░░░░░░░░░░░░   48.46 % 
+Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
+YAML                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 38 mins       ████████████████░░░░░░░░░   62.85 % 
-VS Code                  1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
+Claude Code              1 hr 16 mins        ████████████████████░░░░░   80.21 % 
+VS Code                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 
 🐱‍💻 Projects: 
-stylegrid                1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-stylegrid-mobile         57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-stylegrid-marketplace-sto56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-stylegrid-marketplace    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-strefajob-mobile         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+stylegrid-marketplace-sto27 mins             ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+irco                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+strefajob-mobile         19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+stylegrid                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+stylegrid-marketplace    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (99.69%)
+⏱ AI Coding Time: 1 hr 34 mins (99.19%)
 
-✍️ 1,177 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 743 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,290,641 Input Tokens, 299,323 Output Tokens
+🔤 627,186 Input Tokens, 129,306 Output Tokens
 
-💵 $53.35 Estimated AI Cost This Week
+💵 $22.68 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 75 AI Prompts
+🧠 14 AI Sessions, 34 AI Prompts
 
-Opus                     1,197 lines         █████████████████████████   100.00 % 
+Opus                     743 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 733 characters per prompt
+📝 Concise Prompter — average 290 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 04:12:53 UTC
+ Last Updated on 28/08/2026 06:45:05 UTC
 <!--END_SECTION:waka-->
 </details>
 

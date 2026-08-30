@@ -89,53 +89,53 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               9 hrs 32 mins       █████████████░░░░░░░░░░░░   50.07 % 
-Markdown                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
-YAML                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               9 hrs 16 mins       ██████████████░░░░░░░░░░░   54.30 % 
+Markdown                 5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 39 mins      ███████████████████████░░   92.62 % 
-Codex Vscode             1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Claude Code              15 hrs 40 mins      ███████████████████████░░   91.76 % 
+Codex Vscode             1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-erson-v2                 8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.17 % 
-kb-mcp                   5 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-calculator-the5          1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-stylegrid-marketplace-sto27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-irco                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+erson-v2                 7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.05 % 
+kb-mcp                   4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+calculator-the5          1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+stylegrid-marketplace-sto27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+irco                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 3 mins (99.93%)
+⏱ AI Coding Time: 17 hrs 4 mins (99.92%)
 
-✍️ 6,208 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,889 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,621,323 Input Tokens, 2,569,121 Output Tokens
+🔤 11,011,477 Input Tokens, 2,087,474 Output Tokens
 
-💵 $424.80 Estimated AI Cost This Week
+💵 $378.58 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 227 AI Prompts
+🧠 63 AI Sessions, 225 AI Prompts
 
-Sonnet                   3,240 lines         ████████████░░░░░░░░░░░░░   46.11 % 
-Opus                     3,034 lines         ███████████░░░░░░░░░░░░░░   43.18 % 
-GPT                      753 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Opus                     3,034 lines         ███████████░░░░░░░░░░░░░░   45.23 % 
+Sonnet                   2,921 lines         ███████████░░░░░░░░░░░░░░   43.55 % 
+GPT                      753 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,190 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,198 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 04:00:34 UTC
+ Last Updated on 30/08/2026 01:01:49 UTC
 <!--END_SECTION:waka-->
 </details>
 

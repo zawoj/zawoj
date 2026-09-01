@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 475.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,290 Contributions in the Year 2026
+> 🏆 2,298 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,53 +89,53 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       ██████████████░░░░░░░░░░░   54.30 % 
-Markdown                 5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TypeScript               8 hrs 29 mins       ██████████████░░░░░░░░░░░   54.10 % 
+Markdown                 5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 40 mins      ███████████████████████░░   91.76 % 
-Codex Vscode             1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Claude Code              14 hrs 16 mins      ███████████████████████░░   91.02 % 
+Codex Vscode             1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-erson-v2                 7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.05 % 
-kb-mcp                   4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-calculator-the5          1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-stylegrid-marketplace-sto27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-irco                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+erson-v2                 7 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
+kb-mcp                   3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+calculator-the5          1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+stylegrid-marketplace-sto27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+irco                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (99.92%)
+⏱ AI Coding Time: 15 hrs 40 mins (99.92%)
 
-✍️ 5,889 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,775 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,011,477 Input Tokens, 2,087,474 Output Tokens
+🔤 8,906,357 Input Tokens, 1,849,996 Output Tokens
 
-💵 $378.58 Estimated AI Cost This Week
+💵 $339.99 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 225 AI Prompts
+🧠 61 AI Sessions, 223 AI Prompts
 
-Opus                     3,034 lines         ███████████░░░░░░░░░░░░░░   45.23 % 
-Sonnet                   2,921 lines         ███████████░░░░░░░░░░░░░░   43.55 % 
-GPT                      753 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Opus                     3,034 lines         ████████████░░░░░░░░░░░░░   46.02 % 
+Sonnet                   2,806 lines         ███████████░░░░░░░░░░░░░░   42.56 % 
+GPT                      753 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,198 characters per prompt
+📄 Detailed Prompter — average 1,209 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 01:04:36 UTC
+ Last Updated on 01/09/2026 01:37:05 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 475.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,328 Contributions in the Year 2026
+> 🏆 2,365 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,53 +89,53 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 4 hrs               ████████████░░░░░░░░░░░░░   48.72 % 
-TypeScript               2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               53 mins             ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Markdown                 46 mins             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 11 mins       ██████████████████████░░░   87.49 % 
-Codex Vscode             38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Claude Code              2 hrs 18 mins       █████████████████████░░░░   84.50 % 
+Codex Vscode             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🐱‍💻 Projects: 
-erson-v2                 3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.25 % 
-calculator-the5          1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-stylegrid-marketplace-sto39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-kb-mcp                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-irco                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+calculator-the5          1 hr 53 mins        █████████████████░░░░░░░░   69.50 % 
+strefajob-mobile         17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+erson-v2                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+stylegrid-marketplace-sto11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+zavcode                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 12 mins (99.84%)
+⏱ AI Coding Time: 2 hrs 43 mins (100.0%)
 
-✍️ 2,743 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,056 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,576,421 Input Tokens, 932,253 Output Tokens
+🔤 1,457,549 Input Tokens, 285,875 Output Tokens
 
-💵 $168.35 Estimated AI Cost This Week
+💵 $43.15 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 160 AI Prompts
+🧠 20 AI Sessions, 42 AI Prompts
 
-Opus                     1,895 lines         ██████████████░░░░░░░░░░░   56.63 % 
-Sonnet                   975 lines           ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-GPT                      476 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Opus                     1,152 lines         ██████████████████░░░░░░░   70.98 % 
+GPT                      374 lines           ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Sonnet                   97 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,163 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,263 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 00:48:02 UTC
+ Last Updated on 03/09/2026 00:55:40 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 475.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,396 Contributions in the Year 2026
+> 🏆 2,449 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,53 +89,40 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               53 mins             ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Markdown                 46 mins             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 18 mins       █████████████████████░░░░   84.50 % 
-Codex Vscode             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Claude Code              12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calculator-the5          1 hr 53 mins        █████████████████░░░░░░░░   69.50 % 
-strefajob-mobile         17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-erson-v2                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-stylegrid-marketplace-sto11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-zavcode                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+stylegrid-marketplace-sto11 mins             ████████████████████████░   96.83 % 
+stylegrid                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 12 mins (100.0%)
 
-✍️ 1,056 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,457,549 Input Tokens, 285,875 Output Tokens
+🔤 90,738 Input Tokens, 3,471 Output Tokens
 
-💵 $43.15 Estimated AI Cost This Week
+💵 $1.23 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 42 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
-Opus                     1,152 lines         ██████████████████░░░░░░░   70.98 % 
-GPT                      374 lines           ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-Sonnet                   97 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,263 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 00:44:46 UTC
+ Last Updated on 06/09/2026 00:32:47 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -69,13 +69,13 @@ Builder by default. I like making things that didn't exist yesterday - software,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C887%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-465%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-465%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 475.3 kB Used in GitHub's Storage 
+> 📦 488.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,449 Contributions in the Year 2026
+> 🏆 2,503 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,40 +89,41 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Other                    18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              12 mins             █████████████████████████   100.00 % 
+Claude Code              18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stylegrid-marketplace-sto11 mins             ████████████████████████░   96.83 % 
-stylegrid                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+stylegrid-marketplace-sto11 mins             ████████████████░░░░░░░░░   64.48 % 
+erson-v2                 6 mins              ████████░░░░░░░░░░░░░░░░░   33.41 % 
+stylegrid                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (100.0%)
+⏱ AI Coding Time: 18 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 90,738 Input Tokens, 3,471 Output Tokens
+🔤 97,101 Input Tokens, 7,419 Output Tokens
 
-💵 $1.23 Estimated AI Cost This Week
+💵 $3.47 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📝 Concise Prompter — average 46 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 00:32:47 UTC
+ Last Updated on 07/09/2026 00:40:24 UTC
 <!--END_SECTION:waka-->
 </details>
 

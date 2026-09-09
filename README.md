@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C887%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C887%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-465%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 488.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,519 Contributions in the Year 2026
+> 🏆 2,535 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,41 +89,44 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████████   100.00 % 
+Other                    30 mins             ██████████████░░░░░░░░░░░   57.41 % 
+Markdown                 22 mins             ███████████░░░░░░░░░░░░░░   42.59 % 
 
 🔥 Editors: 
-Claude Code              18 mins             █████████████████████████   100.00 % 
+Claude Code              53 mins             █████████████████████████   99.79 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-stylegrid-marketplace-sto11 mins             ████████████████░░░░░░░░░   64.48 % 
-erson-v2                 6 mins              ████████░░░░░░░░░░░░░░░░░   33.41 % 
-stylegrid                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+strefajob-mobile         45 mins             █████████████████████░░░░   85.70 % 
+erson-v2                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+stylegrid-marketplace    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+stylegrid                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (100.0%)
+⏱ AI Coding Time: 53 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 97,101 Input Tokens, 7,419 Output Tokens
+🔤 280,433 Input Tokens, 34,003 Output Tokens
 
-💵 $3.47 Estimated AI Cost This Week
+💵 $7.73 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     51 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,399 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 00:53:43 UTC
+ Last Updated on 09/09/2026 01:02:04 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 488.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,642 Contributions in the Year 2026
+> 🏆 2,656 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,47 +89,43 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    30 mins             █████████████░░░░░░░░░░░░   50.74 % 
-Markdown                 29 mins             ████████████░░░░░░░░░░░░░   49.26 % 
+Other                    24 mins             █████████████░░░░░░░░░░░░   51.86 % 
+Markdown                 22 mins             ████████████░░░░░░░░░░░░░   48.14 % 
 
 🔥 Editors: 
-Claude Code              1 hr                █████████████████████████   99.74 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              47 mins             █████████████████████████   99.77 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-strefajob-mobile         45 mins             ███████████████████░░░░░░   75.75 % 
-erson-v2                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-zavcode                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-stylegrid-marketplace    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-stylegrid                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+strefajob-mobile         45 mins             ████████████████████████░   96.86 % 
+stylegrid-marketplace    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+stylegrid                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (100.0%)
+⏱ AI Coding Time: 47 mins (100.0%)
 
 ✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 934,316 Input Tokens, 46,197 Output Tokens
+🔤 274,070 Input Tokens, 30,055 Output Tokens
 
-💵 $16.84 Estimated AI Cost This Week
+💵 $5.49 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 16 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
 Opus                     51 lines            █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,151 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 1,701 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 00:36:17 UTC
+ Last Updated on 14/09/2026 00:42:03 UTC
 <!--END_SECTION:waka-->
 </details>
 

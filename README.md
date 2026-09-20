@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C887%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C889%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 488.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,775 Contributions in the Year 2026
+> 🏆 2,826 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,23 +89,55 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+Markdown                 5 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+Other                    4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Docker                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              17 hrs 4 mins       ███████████████████████░░   92.40 % 
+Agent                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Codex Vscode             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+erson-v2                 11 hrs 8 mins       ███████████████░░░░░░░░░░   60.30 % 
+zavcode                  5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+the-tracker              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+t3code-f83981dd          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+t3code-2105df42          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 hrs 25 mins (99.66%)
+
+✍️ 2,998 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 15,908,864 Input Tokens, 2,822,663 Output Tokens
+
+💵 $496.89 Estimated AI Cost This Week
+
+🧠 47 AI Sessions, 292 AI Prompts
+
+Sonnet                   1,780 lines         ██████████████░░░░░░░░░░░   55.26 % 
+Opus                     1,441 lines         ███████████░░░░░░░░░░░░░░   44.74 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,687 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 00:56:27 UTC
+ Last Updated on 20/09/2026 00:37:32 UTC
 <!--END_SECTION:waka-->
 </details>
 

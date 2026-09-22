@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 488.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,835 Contributions in the Year 2026
+> 🏆 2,885 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,54 +89,54 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Markdown                 4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Other                    4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Docker                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Markdown                 4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+Other                    3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Docker                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 11 mins      ████████████████████████░   94.50 % 
-Codex Vscode             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Agent                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Claude Code              16 hrs 11 mins      ████████████████████████░   96.14 % 
+Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Agent                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-erson-v2                 11 hrs 5 mins       ████████████████░░░░░░░░░   64.78 % 
-zavcode                  4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-the-tracker              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-t3code-2105df42          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-at-payload               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+erson-v2                 11 hrs 5 mins       ████████████████░░░░░░░░░   65.90 % 
+zavcode                  4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+the-tracker              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+at-payload               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+trenago-website          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 3 mins (99.63%)
+⏱ AI Coding Time: 16 hrs 46 mins (99.63%)
 
 ✍️ 2,939 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,864,435 Input Tokens, 2,594,757 Output Tokens
+🔤 14,025,391 Input Tokens, 2,242,482 Output Tokens
 
-💵 $447.48 Estimated AI Cost This Week
+💵 $438.36 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 284 AI Prompts
+🧠 33 AI Sessions, 276 AI Prompts
 
 Sonnet                   1,780 lines         ██████████████░░░░░░░░░░░   56.29 % 
 Opus                     1,382 lines         ███████████░░░░░░░░░░░░░░   43.71 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,795 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,292 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 00:49:16 UTC
+ Last Updated on 22/09/2026 01:25:01 UTC
 <!--END_SECTION:waka-->
 </details>
 

@@ -73,9 +73,9 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 **🐱 My GitHub Data** 
 
-> 📦 519.3 kB Used in GitHub's Storage 
+> 📦 519.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,126 Contributions in the Year 2026
+> 🏆 3,145 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,50 +89,48 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.37 % 
-TypeScript               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.06 % 
-Other                    1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 1 hr 18 mins        ██████████████░░░░░░░░░░░   57.41 % 
+Other                    25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 52 mins       █████████████████████████   98.31 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Claude Code              2 hrs 8 mins        ████████████████████████░   94.79 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🐱‍💻 Projects: 
-erson-v2                 3 hrs 46 mins       █████████████░░░░░░░░░░░░   53.94 % 
-zavcode                  2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.22 % 
-the-tracker              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-at-payload               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-trenago-website          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+zavcode                  1 hr 33 mins        █████████████████░░░░░░░░   68.79 % 
+erson-v2                 35 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+trenago-website          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+at-payload               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 55 mins (99.1%)
+⏱ AI Coding Time: 2 hrs 12 mins (97.22%)
 
-✍️ 1,487 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 375 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,192,839 Input Tokens, 1,218,703 Output Tokens
+🔤 2,796,414 Input Tokens, 380,923 Output Tokens
 
-💵 $127.20 Estimated AI Cost This Week
+💵 $43.06 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 108 AI Prompts
+🧠 9 AI Sessions, 27 AI Prompts
 
-Sonnet                   1,227 lines         ███████████████████░░░░░░   76.54 % 
-Opus                     376 lines           ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Opus                     353 lines           ████████████████████████░   94.13 % 
+Sonnet                   22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,532 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 646 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 01:07:50 UTC
+ Last Updated on 26/09/2026 01:10:22 UTC
 <!--END_SECTION:waka-->
 </details>
 

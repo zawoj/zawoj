@@ -75,7 +75,7 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 > 📦 528.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3,474 Contributions in the Year 2026
+> 🏆 3,811 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,51 +89,50 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               6 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
-Other                    6 hrs               ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Markdown                 3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript               4 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.37 % 
+Markdown                 2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+JavaScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 31 mins      ████████████████████████░   97.31 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Claude Code              9 hrs 20 mins       █████████████████████████   98.41 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🐱‍💻 Projects: 
-zavcode                  6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
-mega-brave               4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-erson-v2                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-vipo-admin               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-tmp                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+zavcode                  4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
+mega-brave               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+erson-v2                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+vipo-admin               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+at-website               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs (100.0%)
+⏱ AI Coding Time: 9 hrs 29 mins (100.0%)
 
-✍️ 8,745 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,786 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,653,768 Input Tokens, 3,415,612 Output Tokens
+🔤 10,003,972 Input Tokens, 1,755,263 Output Tokens
 
-💵 $460.57 Estimated AI Cost This Week
+💵 $234.87 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 299 AI Prompts
+🧠 61 AI Sessions, 163 AI Prompts
 
-Opus                     7,984 lines         ███████████████████████░░   90.22 % 
-Sonnet                   865 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Opus                     4,931 lines         █████████████████████░░░░   85.08 % 
+Sonnet                   865 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,860 characters per prompt
+📚 Verbose Prompter — average 2,358 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 01:42:19 UTC
+ Last Updated on 04/10/2026 02:22:35 UTC
 <!--END_SECTION:waka-->
 </details>
 

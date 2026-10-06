@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C898%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C900%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-478%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-481%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 528.8 kB Used in GitHub's Storage 
+> 📦 529.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,866 Contributions in the Year 2026
+> 🏆 3,899 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,50 +89,50 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.37 % 
-Markdown                 2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-JavaScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Markdown                 18 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.02 % 
+TypeScript               18 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   41.36 % 
+Other                    4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 20 mins       █████████████████████████   98.41 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Claude Code              43 hrs 24 mins      █████████████████████████   99.50 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-zavcode                  4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
-mega-brave               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-erson-v2                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-vipo-admin               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-at-website               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+at-website               18 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
+erson-v2                 7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+zavcode                  6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+mega-brave               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+vipo-admin               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 43 hrs 37 mins (100.0%)
 
-✍️ 5,786 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 15,092 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,003,972 Input Tokens, 1,755,263 Output Tokens
+🔤 53,449,752 Input Tokens, 10,133,280 Output Tokens
 
-💵 $234.87 Estimated AI Cost This Week
+💵 $1088.96 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 163 AI Prompts
+🧠 121 AI Sessions, 481 AI Prompts
 
-Opus                     4,931 lines         █████████████████████░░░░   85.08 % 
-Sonnet                   865 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Opus                     14,264 lines        ███████████████████████░░   93.69 % 
+Sonnet                   961 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,358 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,520 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 01:34:42 UTC
+ Last Updated on 06/10/2026 02:40:31 UTC
 <!--END_SECTION:waka-->
 </details>
 

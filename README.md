@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C900%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C901%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-481%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-482%20hrs%2022%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 529.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,904 Contributions in the Year 2026
+> 🏆 3,956 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,50 +89,50 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 18 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.02 % 
-TypeScript               18 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   41.36 % 
-Other                    4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Markdown                 17 hrs 17 mins      ███████████░░░░░░░░░░░░░░   45.51 % 
+TypeScript               15 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.40 % 
+Other                    3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Claude Code              43 hrs 24 mins      █████████████████████████   99.50 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Claude Code              37 hrs 48 mins      █████████████████████████   99.50 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-at-website               18 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
-erson-v2                 7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-zavcode                  6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-mega-brave               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-vipo-admin               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+at-website               18 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.81 % 
+erson-v2                 6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+zavcode                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+mega-brave               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+vipo-admin               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 37 hrs 59 mins (100.0%)
 
-✍️ 15,092 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,308 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 53,449,752 Input Tokens, 10,133,280 Output Tokens
+🔤 46,571,107 Input Tokens, 8,817,378 Output Tokens
 
-💵 $1088.96 Estimated AI Cost This Week
+💵 $923.62 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 481 AI Prompts
+🧠 92 AI Sessions, 397 AI Prompts
 
-Opus                     14,264 lines        ███████████████████████░░   93.69 % 
-Sonnet                   961 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Opus                     13,481 lines        ███████████████████████░░   93.74 % 
+Sonnet                   900 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,520 characters per prompt
+📚 Verbose Prompter — average 1,564 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 02:04:01 UTC
+ Last Updated on 08/10/2026 02:29:25 UTC
 <!--END_SECTION:waka-->
 </details>
 

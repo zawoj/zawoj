@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C901%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C903%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-482%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-485%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 529.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,956 Contributions in the Year 2026
+> 🏆 4,004 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,50 +89,50 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 17 hrs 17 mins      ███████████░░░░░░░░░░░░░░   45.51 % 
-TypeScript               15 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.40 % 
-Other                    3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 13 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.61 % 
+TypeScript               10 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.73 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Claude Code              37 hrs 48 mins      █████████████████████████   99.50 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Claude Code              27 hrs 25 mins      █████████████████████████   99.75 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-at-website               18 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.81 % 
-erson-v2                 6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-zavcode                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-mega-brave               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-vipo-admin               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+at-website               16 hrs 53 mins      ███████████████░░░░░░░░░░   61.47 % 
+erson-v2                 4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+the-tracker              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+tools                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+memory                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 27 hrs 29 mins (100.0%)
 
-✍️ 14,308 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,691 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 46,571,107 Input Tokens, 8,817,378 Output Tokens
+🔤 37,005,685 Input Tokens, 7,035,417 Output Tokens
 
-💵 $923.62 Estimated AI Cost This Week
+💵 $710.10 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 397 AI Prompts
+🧠 49 AI Sessions, 229 AI Prompts
 
-Opus                     13,481 lines        ███████████████████████░░   93.74 % 
-Sonnet                   900 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Opus                     7,620 lines         ████████████████████████░   97.62 % 
+Sonnet                   186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,564 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,342 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 02:29:25 UTC
+ Last Updated on 09/10/2026 02:45:41 UTC
 <!--END_SECTION:waka-->
 </details>
 

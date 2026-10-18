@@ -73,9 +73,9 @@ Builder by default. I like making things that didn't exist yesterday - software,
 
 **🐱 My GitHub Data** 
 
-> 📦 532.4 kB Used in GitHub's Storage 
+> 📦 532.5 kB Used in GitHub's Storage 
  > 
-> 🏆 4,491 Contributions in the Year 2026
+> 🏆 4,568 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,52 +89,52 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Text                     8 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Markdown                 7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-TypeScript               4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Other                    2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JavaScript               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Markdown                 5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+TypeScript               4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Text                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Other                    2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+JavaScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 3 mins       ████████████████████████░   96.97 % 
-Codex Vscode             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude Code              17 hrs 51 mins      ████████████████████████░   95.69 % 
+Codex Vscode             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-at-website               9 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.56 % 
-zavcode                  4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-zavcode-website          1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-drones-frontend          1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-mkt-docs                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+at-website               5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+zavcode                  3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+zavcode-website          1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+drones-frontend          1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+mkt-docs                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 52 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 39 mins (100.0%)
 
-✍️ 5,620 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,311 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 54,244,791 Input Tokens, 9,339,780 Output Tokens
+🔤 37,208,697 Input Tokens, 6,363,810 Output Tokens
 
-💵 $722.18 Estimated AI Cost This Week
+💵 $531.48 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 217 AI Prompts
+🧠 65 AI Sessions, 188 AI Prompts
 
-Opus                     4,684 lines         █████████████████████░░░░   82.49 % 
-Sonnet                   972 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-GPT                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Opus                     4,151 lines         ████████████████████████░   96.27 % 
+Sonnet                   139 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+GPT                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,976 characters per prompt
+📚 Verbose Prompter — average 3,098 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 01:01:46 UTC
+ Last Updated on 18/10/2026 00:37:27 UTC
 <!--END_SECTION:waka-->
 </details>
 

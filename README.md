@@ -67,15 +67,15 @@ Builder by default. I like making things that didn't exist yesterday - software,
  <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C914%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C920%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-498%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-504%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 532.5 kB Used in GitHub's Storage 
  > 
-> 🏆 4,584 Contributions in the Year 2026
+> 🏆 4,637 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,53 +89,53 @@ Builder by default. I like making things that didn't exist yesterday - software,
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 11 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.35 % 
-TypeScript               3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-JSON                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-JavaScript               2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Other                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 9 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
+TypeScript               6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+JSON                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+JavaScript               2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 43 mins      ██████████████████░░░░░░░   70.22 % 
-Codex Vscode             6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Claude Code              16 hrs 33 mins      ██████████████████░░░░░░░   70.22 % 
+Codex Vscode             6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🐱‍💻 Projects: 
-at-website               8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
-drones-frontend          6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-ai-skills                1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-kineti                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-launchpad                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+at-website               8 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.20 % 
+drones-frontend          5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+zavcode                  3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+ai-skills                1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+kineti                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 23 hrs 34 mins (100.0%)
 
-✍️ 4,058 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,268 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 27,085,684 Input Tokens, 3,920,589 Output Tokens
+🔤 19,498,762 Input Tokens, 2,828,465 Output Tokens
 
-💵 $430.13 Estimated AI Cost This Week
+💵 $343.88 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 315 AI Prompts
+🧠 101 AI Sessions, 326 AI Prompts
 
-Opus                     3,127 lines         █████████████████░░░░░░░░   68.95 % 
-Sonnet                   887 lines           █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-GPT                      521 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Opus                     2,156 lines         ██████████████░░░░░░░░░░░   57.51 % 
+Sonnet                   1,072 lines         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+GPT                      521 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,766 characters per prompt
+📚 Verbose Prompter — average 3,010 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 00:47:15 UTC
+ Last Updated on 20/10/2026 01:33:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
